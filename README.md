@@ -1,5 +1,6 @@
 # DiegoMP
 Repositorio variado
+
   - Carpeta Python: contiene distintos proyectos en lenguaje Python
     * Cambio_climático: proyecto que permite conectare a la API de la aemet para descargar información meteorológica anul de distitas ciudades.
     * Camiño_Santiago : proyecto que muestra un mapa cloroplético con los Caminos de Santiago en Galicia, con puntos de interés y red de albergues.
@@ -11,3 +12,5 @@ Repositorio variado
       
   - Carpeta R: contiene distintos proyectos en lenguaje R
     * EDAS: Distintos proyectos de análisis exploratorios de datos
+   
+  - Carpeta plantillas: contiene las plantillas de distintos Dashboard de PowerBI
